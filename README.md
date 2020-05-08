@@ -7,3 +7,13 @@ The stations monitor Air pollution from different sectors, viz- Industrial Air P
 **PS: The data for the analysis is being collected and the analysis will be updated monthly**
 
 ### Some of the snippets from the Analysis:<br>
+
+![avg-pm](/images/avg-pm.png)
+
+![other-poll](/images/other-pollutants.png)
+
+![indicator](/images/indicator.png)
+
+![pm-high-low](/images/pm-high-low.png)
+
+
